@@ -1,4 +1,4 @@
-# Fayçal CheMLI
+# Fayçal CHEMLI
 
 Master's student in Intelligent Systems Engineering and Data Scientist apprentice at Renault Group.
 
