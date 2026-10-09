@@ -1,15 +1,15 @@
 # Fayçal CHEMLI
 
-Master's student in Intelligent Systems Engineering and Data Scientist apprentice at Renault Group.
+AI Engineer focused on AgentOps, LLMOps, and retrieval-augmented generation (RAG).
 
-I build practical AI and data projects, with an emphasis on understandable pipelines, reproducible experiments, and honest evaluation.
+I build AI workflows that connect language models, tools, and trusted data. I care about clear architecture, reproducible experiments, and practical evaluation.
 
-## Featured projects
+## Selected projects
 
-- **[SupportOps](https://github.com/CHEMLI-Fay/SupportOps)** — A learning project for customer-support order lookup, Groq tool calling, and a deterministic LangGraph workflow.
-- **[DataLens-RAG](https://github.com/CHEMLI-Fay/DataLens-RAG)** — A local RAG system for scikit-learn and pandas documentation, using FAISS retrieval and Ollama for grounded answers.
-- **[Job Radar](https://github.com/CHEMLI-Fay/job-radar)** — A dashboard for junior AI and data science job listings from France Travail and JSearch.
+- **[SupportOps](https://github.com/CHEMLI-Fay/SupportOps)** — A customer-support prototype exploring LLM tool calling and a deterministic LangGraph order-lookup workflow.
+- **[DataLens-RAG](https://github.com/CHEMLI-Fay/DataLens-RAG)** — A local RAG system over scikit-learn and pandas documentation, with FAISS retrieval, Ollama answers, and source attribution.
+- **[Job Radar](https://github.com/CHEMLI-Fay/job-radar)** — A dashboard that collects and ranks junior AI and data science job listings.
 
-## Interests
+## Focus
 
-Python · Data science · Retrieval-augmented generation · LLM tools · Evaluation
+AgentOps · LLMOps · RAG · Tool calling · Evaluation · Python
